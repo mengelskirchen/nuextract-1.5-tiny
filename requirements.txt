@@ -1,0 +1,4 @@
+# NuExtract-1.5-tiny, Python >=3.10
+PyMuPDF>=1.23
+torch>=2.6,<3
+transformers>=4.56,<6
